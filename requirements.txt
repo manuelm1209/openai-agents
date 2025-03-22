@@ -1,1 +1,3 @@
 openai-agents
+rich
+python-dotenv
